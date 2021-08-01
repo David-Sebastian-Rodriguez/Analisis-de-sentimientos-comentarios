@@ -27,5 +27,6 @@ Acceda a la sección post, luego "Try it out", y en la sección "post" ingrese e
 ## Explicación de archivos
 En la carpeta `Extraer datos y entrenamiento`, se encuentran 3 archivos .py, `extraer_datos.py` extrae los comentarios y puntuación para el entrenamiento de los archivos, con el se generaron, `data.json`, `trainData.json`, `validationData.json`.
 `entrenador_estimador_de_connotacion.py` entrena el modelo del estimador de connotacion utilizando un NaiveBayesClassifier y lo extrae en `model.pkl`.
-`entrenador_predictor_estrellas.py` entrena el predicctor de calificaion y lo extrae en `modelclassifier.pkl` y su vectorizador en `vectorizer.pkl`.
-En la carpeta `Modelo y API`
+`entrenador_predictor_estrellas.py` entrena el predictor de calificación y lo extrae en `modelclassifier.pkl` y su vectorizador en `vectorizer.pkl`.
+En la carpeta `Modelo y API` se guardan los modelos, y los archivos para la API. `predictorapp.py` tiene las funciones para utilizar los predictores, `app.py` implementa fastAPI para manejar la API, los demás archivos son los modelos y archivos necesarios para subir el modelo a Heroku.
+

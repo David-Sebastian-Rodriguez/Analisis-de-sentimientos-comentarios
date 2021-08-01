@@ -1,7 +1,7 @@
 # Predictor de connotacion y puntuacion API
 Algoritmo que extrae los comentarios de una app de Google Play, y basado en ellos, entrena a un modelo para que logre estimar la connotación positiva o negativa de un comentario de entrada, y otro el cual estime la calificación que recibiría.
 
-Además, se implementa una API utilizando fastAPI y desplegada en Heroku, que permite obtener n comentarios de esta app y su respectiva predicción de connotación, también se puede obtener la connotación y puntuación de un comentario que el usuario ingrese.
+Además, implementa una API utilizando fastAPI con despliegue en Heroku, la cual permite obtener n comentarios de esta app y su respectiva predicción de connotación, también se puede obtener la connotación y puntuación de un comentario que el usuario ingrese.
 
 ## Como acceder la API
 

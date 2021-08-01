@@ -14,8 +14,7 @@ Al entrar por primera vez es posible que la página tarde en cargar. Para accede
 [https://app-predictor-connotacion.herokuapp.com/connotacion-n-valores/5](http://app-predictor-connotacion.herokuapp.com/connotacion-n-valores/5 "https://app-predictor-connotacion.herokuapp.com/connotacion-n-valores/5")
 
 Para ingresar un comentario y obtener la prediccion de su connotacion y calificaion, acceda al siguiente link: 
-[https://app-predictor-connotacion.herokuapp.com/connotacion-y-calificacion](http://app-predictor-connotacion.herokuapp.com/connotacion-y-calificacion "https://app-predictor-connotacion.herokuapp.com/connotacion-y-calificacion")
-En el, posteriormente se cargaran los datos del comentario y las predicciones. 
+[https://app-predictor-connotacion.herokuapp.com/connotacion-y-calificacion](http://app-predictor-connotacion.herokuapp.com/connotacion-y-calificacion "https://app-predictor-connotacion.herokuapp.com/connotacion-y-calificacion"), en el, posteriormente se cargaran los datos del comentario y las predicciones. 
 Además, ingrese a el link: 
 [https://app-predictor-connotacion.herokuapp.com/docs](http://app-predictor-connotacion.herokuapp.com/docs "https://app-predictor-connotacion.herokuapp.com/docs")
 Allí cargara una interface donde podra ingresar el comentario a predecir. 

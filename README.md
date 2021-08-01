@@ -9,7 +9,7 @@ El link para acceder a la API es:
 
 [https://app-predictor-connotacion.herokuapp.com/](http://app-predictor-connotacion.herokuapp.com/ "https://app-predictor-connotacion.herokuapp.com/")
 
-Al entrar por primera vez es posible que la página tarde en cargar. Para acceder a n comentarios con sus respectivas predicciones de connotación, añada "connotación-n-valores/5", puede reemplazar "5" por el número de valores que desee obtener.
+Al entrar por primera vez es posible que la página tarde en cargar algunos minutos, pero luego de la primera vez cargará rápidamente y con normalidad. Para acceder a n comentarios con sus respectivas predicciones de connotación, añada "connotación-n-valores/5", puede reemplazar "5" por el número de valores que desee obtener.
 
 [https://app-predictor-connotacion.herokuapp.com/connotacion-n-valores/5](http://app-predictor-connotacion.herokuapp.com/connotacion-n-valores/5 "https://app-predictor-connotacion.herokuapp.com/connotacion-n-valores/5")
 

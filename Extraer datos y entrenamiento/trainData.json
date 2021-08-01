@@ -1,0 +1,2562 @@
+[
+ {
+  "text": "Muchas veces no abre",
+  "label": "neg"
+ },
+ {
+  "text": "No entiendo por que esta app, que sirve a la comunidad no se puede ingresar me manda error. Ni me acuerdo cuanto tiempo lleva asi.",
+  "label": "neg"
+ },
+ {
+  "text": "Muy buena",
+  "label": "pos"
+ },
+ {
+  "text": "Muchas gracias por el servicio, Dios le bendiga grandemente",
+  "label": "pos"
+ },
+ {
+  "text": "No me sirve dice en este momento no sepu de realizar la operación 😭😭😭 desde hace 3 meces",
+  "label": "neg"
+ },
+ {
+  "text": "Lento",
+  "label": "pos"
+ },
+ {
+  "text": "Asta hoy estoy conectado",
+  "label": "pos"
+ },
+ {
+  "text": "La señal se pierde con facilidad, no se obtiene internet en cualquier parte, además hay momentos en que se bloquean las llamadas, aunque tenga plan eso sigue igual 😔😔😔",
+  "label": "neg"
+ },
+ {
+  "text": "No hay consistencia en el servicio de Internet",
+  "label": "neg"
+ },
+ {
+  "text": "Excelente aplicación",
+  "label": "pos"
+ },
+ {
+  "text": "Ok",
+  "label": "pos"
+ },
+ {
+  "text": "Lo actualizan demasiado en muy corto tiempo resulta muy incómodo.",
+  "label": "neg"
+ },
+ {
+  "text": "Me gusta la aplicación puedo ver mis consumos de plan pospago y claro hogar puedo pagar mis facturas atrás de app bien",
+  "label": "pos"
+ },
+ {
+  "text": "Excelente",
+  "label": "pos"
+ },
+ {
+  "text": "Agendar turno no sirve si tienen asesores inútiles en los centros de experiencia, pésimo servicio.",
+  "label": "neg"
+ },
+ {
+  "text": "Am le pongo una estrella por q por q así los de Claro pueden leer el mensaje bno vamos al tema en mi canal a no lo voy a decir sino se me filtra todo bno es q yo soy streamer y yo juego free fire y yo recargo diamantes para regalarles a mis suscriptores y regalarles cosas pero yo los recargo por FACTURAR CLARO y esa facturacion claro tiene un limimite y cuando llegó al límite no me deja recargar más y este comentario es para que me envíen el correo de ustedes y contarles el incoveniente gracias",
+  "label": "neg"
+ },
+ {
+  "text": "Lo peor q puedan aser es firmar contrato me mude i me dijeron q me ivan aser el traslado i ya llevo 15 dias i nada ahora me iva a retirar i me dijeron q igual forma tenia q pagar la mensualida i esperar el año todavia es la hora i estoy esperando pero las facturas si llegan puntuales lo peor q pude aser quieren obligar a uno a algo q de verdad no fuciona bie",
+  "label": "neg"
+ },
+ {
+  "text": "Claro tiene lo mejor para mí",
+  "label": "pos"
+ },
+ {
+  "text": "Definitivamente la peor compañía móvil , pésima de señal para llamadas y para internet , ahora esta app sale con que no se puede validar la información , que no aparezco registrado arreglen eso",
+  "label": "neg"
+ },
+ {
+  "text": "Última mente muy incómoda",
+  "label": "pos"
+ },
+ {
+  "text": "Buena",
+  "label": "pos"
+ },
+ {
+  "text": "Rara la vez que voy a entrar y no me aparezca actualizar..y mensajes de texto a toda hora como si uno no supiera que tiene que pagar.",
+  "label": "neg"
+ },
+ {
+  "text": "Ĺ 8 L",
+  "label": "pos"
+ },
+ {
+  "text": "Claro puedo hacer pagos de recargas de diamantes para un juego solo con saldo del celular?",
+  "label": "pos"
+ },
+ {
+  "text": "Jajjaa",
+  "label": "pos"
+ },
+ {
+  "text": "Buena",
+  "label": "pos"
+ },
+ {
+  "text": "Buena ayuda",
+  "label": "pos"
+ },
+ {
+  "text": "Cada cierto tiempo me borra todos los datos de la aplicación y me dice que no tengo cuenta en Claro. Van de mal en peor.",
+  "label": "neg"
+ },
+ {
+  "text": "Demasiadas actualizaciones",
+  "label": "neg"
+ },
+ {
+  "text": "Hola, todavía persiste el problema que no me deja cambiar la clave ni el nombre de mi wifi. Me sale un mensaje que dice: En este momento no podemos atender esta solicitud intenta nuevamente.",
+  "label": "neg"
+ },
+ {
+  "text": "Muy buena app. Ahorras mucho tiempo.",
+  "label": "pos"
+ },
+ {
+  "text": "Nose q pasa con app mi claro mi piden actoalizar y cuando actoalizo no funciona me dise error no puedo como consultar mis megas me parese es un abuso al cliente de claro es una desepcion .",
+  "label": "neg"
+ },
+ {
+  "text": "Está muy pesima l señal de claro sobre todo en las partes altas de las ciudades. En mi opinion aquí en Medellín muy pésima malísimo",
+  "label": "neg"
+ },
+ {
+  "text": "La aplicación en el celular no funciona, dice no reconocer el usuario.",
+  "label": "neg"
+ },
+ {
+  "text": "No me abre el app",
+  "label": "neg"
+ },
+ {
+  "text": "Excelente servicio.",
+  "label": "pos"
+ },
+ {
+  "text": "Hasta ahora a sido bueno, gracias.",
+  "label": "pos"
+ },
+ {
+  "text": "Que servicio tan malo a todo momento caído, les creí que me enviaban el técnico ponen una hora y lo envían en otra, para tenerlo a uno ahí atado sin darle forma de retirarse la verdad, les quedó grande brindar un servicio para una población grande,",
+  "label": "neg"
+ },
+ {
+  "text": "Ok",
+  "label": "pos"
+ },
+ {
+  "text": "Llevo más de 2 meses sin poder ingresar a la app dice mi usuario no existe lo arreglo por mi propia cuenta y 2 dias después vuelve a molestar diciendo lo mismo llamo y me dicen q van a escalar el caso pero no tengo respuesta, pésimo.",
+  "label": "neg"
+ },
+ {
+  "text": "muy bueno el servicio",
+  "label": "pos"
+ },
+ {
+  "text": "Pésima señal pa todo es lento de que sirve tantas GB si la senal es pésima y lenta",
+  "label": "neg"
+ },
+ {
+  "text": "No funciona BIENafonde me comunico en el 5800200 NUNCA contestan y.. *611 ?..MENOS ..muy lenta la red",
+  "label": "pos"
+ },
+ {
+  "text": "Casi siempre falla",
+  "label": "neg"
+ },
+ {
+  "text": "Ni siquiera abre",
+  "label": "neg"
+ },
+ {
+  "text": "Buena",
+  "label": "pos"
+ },
+ {
+  "text": "El técnico qué se presentó a mi casa muy educado servicial y atento a los comentarios qué le realicé tuvo problemas con el equipo que trajo pero busco la solución muchas gracias",
+  "label": "pos"
+ },
+ {
+  "text": "Buena aplicadion",
+  "label": "pos"
+ },
+ {
+  "text": "Excelente",
+  "label": "pos"
+ },
+ {
+  "text": "Malisima la señal",
+  "label": "pos"
+ },
+ {
+  "text": "No funciona",
+  "label": "neg"
+ },
+ {
+  "text": "Buenas noches cuéntame",
+  "label": "pos"
+ },
+ {
+  "text": "Claro pésima la señal",
+  "label": "neg"
+ },
+ {
+  "text": "Le doy una solo por escribir el comentario, que es una md aplicación que no sirve para nada, me la eh pasado toda la semana bregando a ver la información de mi plan y siempre con lo mismo, que no estoy registrado o que desactive la conexión a wifi, como md dicen eso sí estoy pagando un plan?",
+  "label": "neg"
+ },
+ {
+  "text": "Fué buena",
+  "label": "pos"
+ },
+ {
+  "text": "Muy mala, ahora me dice que no estoy conectado la red",
+  "label": "neg"
+ },
+ {
+  "text": "👍🏻",
+  "label": "neg"
+ },
+ {
+  "text": "Toca esperar para saber cómo funciona de aquí en adelante, gracias",
+  "label": "pos"
+ },
+ {
+  "text": "Muy buena",
+  "label": "pos"
+ },
+ {
+  "text": "Regular",
+  "label": "pos"
+ },
+ {
+  "text": "No puedo entrar a la aplicacion",
+  "label": "neg"
+ },
+ {
+  "text": "Excelente servicio",
+  "label": "pos"
+ },
+ {
+  "text": "Excelente",
+  "label": "pos"
+ },
+ {
+  "text": "Grosería de APP. Muy mala",
+  "label": "neg"
+ },
+ {
+  "text": "No fue posible realizar la instalación por permiso de la administración del conjunto pero exelente servicio muy rápido",
+  "label": "pos"
+ },
+ {
+  "text": "Funcional",
+  "label": "pos"
+ },
+ {
+  "text": "La conectividad es muy débil. No me carga ni el correo .",
+  "label": "neg"
+ },
+ {
+  "text": "No sirve para hacer reparaciones o reclamos, nunca funcionan. Solo sirve para comprar o pagar, para eso sí están atentos.",
+  "label": "neg"
+ },
+ {
+  "text": "Me parece excelente",
+  "label": "pos"
+ },
+ {
+  "text": "No sirve en ocasiones y los soportes no le ayudan a uno",
+  "label": "neg"
+ },
+ {
+  "text": "Genial",
+  "label": "pos"
+ },
+ {
+  "text": "Me han tratado bien .",
+  "label": "pos"
+ },
+ {
+  "text": "La verdad ustedes son el peor servicio que existe, nunca le dan la información bien aunque uno se vaya con la idea de que son amables después descubre que todos era marketing, el internet pésimo, los canales aveces no cogen, es terrible y caro",
+  "label": "neg"
+ },
+ {
+  "text": "Xxxxxxxvkekekeb",
+  "label": "pos"
+ },
+ {
+  "text": "Bueno el servicio puntuales ok",
+  "label": "pos"
+ },
+ {
+  "text": "todo bien",
+  "label": "pos"
+ },
+ {
+  "text": "Que pesar ,,uno tener un servicio de claro ,,muy malo llevo 2 meses con la misma novedad y asi quieren que uno les pague la factura o el plan ,,brindan mal servicio,,,dos meses que llevo con la misma novedad con el servicio",
+  "label": "neg"
+ },
+ {
+  "text": "Porquería.",
+  "label": "neg"
+ },
+ {
+  "text": "1 semana y media mean que dado de instalar pero an pasado dos veces y no instalan nada porque llegan en días festivo y en el lugar no dejan instalar los festivos y mandan un mensaje que diste que los técnicos están en casa y no allegado nadie",
+  "label": "neg"
+ },
+ {
+  "text": "Ok",
+  "label": "pos"
+ },
+ {
+  "text": "Es muy útil, no tengo queja",
+  "label": "pos"
+ },
+ {
+  "text": "No esta funcionando para nada☹️",
+  "label": "neg"
+ },
+ {
+  "text": "No sirve para hacer test de tu internet, no muestra datos de tu contrato, casi ninguna función sirve... intento chatear con el clarobot y tiene solo ciertas respuestas, no puedo poner una solicitud para que revisen mi internet y la app tampoco ayuda a hacer el diagnostico de los problemas que tengo en el i Internet",
+  "label": "neg"
+ },
+ {
+  "text": "Excelente",
+  "label": "pos"
+ },
+ {
+  "text": "Pésima señal en ambos móvil e internet hogar en los últimos 3 meses. De seguir así, espero solo terminar el mes para cambiar de operador.",
+  "label": "neg"
+ },
+ {
+  "text": "Buen servicio",
+  "label": "pos"
+ },
+ {
+  "text": "Nunca contestan y cuando lo hacen lo dejan a uno y en silencio y no a tienden nuestras falencia con el servicio, ya tiene uno que desplazarse al punto de a tencion los molinos, ai le dan un fichó para el o tro día y valla problema Par que lo tiendan, eso sii la factura llega puntual y si no la pagas a tiempo te vibran mS del 50/ de intereses. La verdad para el servicio que están prestando hoy en día es muy costoso los precios que tienen, estoy mirando cómo no seguir con sus servicios ya casi 10",
+  "label": "pos"
+ },
+ {
+  "text": ".l.",
+  "label": "pos"
+ },
+ {
+  "text": "Exageradamente lenta. ....",
+  "label": "neg"
+ },
+ {
+  "text": "Es el peor servicio que he tenido no hay forma ni de comunicarse con alguien llevo 2 meses sin que funcione y no tengo como hacer el reclamo el peor",
+  "label": "neg"
+ },
+ {
+  "text": "La app se está cerrando cuando elijo Pago de servicios, sin embargo ya la desinstale a ver que pasa porq es Muy necesaria 😉",
+  "label": "pos"
+ },
+ {
+  "text": "Buena",
+  "label": "pos"
+ },
+ {
+  "text": "Bien",
+  "label": "pos"
+ },
+ {
+  "text": "Por favor la aplicación no funciona.",
+  "label": "neg"
+ },
+ {
+  "text": "Muy bien la visita del técnico gracias",
+  "label": "pos"
+ },
+ {
+  "text": "Super👍",
+  "label": "neg"
+ },
+ {
+  "text": "Muy buen servicio",
+  "label": "pos"
+ },
+ {
+  "text": "Buena",
+  "label": "pos"
+ },
+ {
+  "text": "Bien",
+  "label": "pos"
+ },
+ {
+  "text": "No puedo actualizarla.",
+  "label": "pos"
+ },
+ {
+  "text": "Buenas tarde mira que! Debo hacer el control del televisor no cambia",
+  "label": "pos"
+ },
+ {
+  "text": "Es difícil conseguir los menúes para cosas específicas, le falta ser amigable al usuario y ser intuitiva",
+  "label": "neg"
+ },
+ {
+  "text": "Estoy contenta con claro gracias",
+  "label": "pos"
+ },
+ {
+  "text": "Muy buena y util app",
+  "label": "pos"
+ },
+ {
+  "text": "Pésimo el servicio, pésima la atención. Nunca resuelven nada",
+  "label": "neg"
+ },
+ {
+  "text": "Ed una pta basura",
+  "label": "neg"
+ },
+ {
+  "text": "Cómo toda empresa en Colombia \"prestadora de servicios\", malísima en general. Al tiempo de uso se hace más lenta la red, pierde alcance, no solucionan nada.",
+  "label": "neg"
+ },
+ {
+  "text": "Mnn",
+  "label": "pos"
+ },
+ {
+  "text": "Muy bueno el servicio",
+  "label": "pos"
+ },
+ {
+  "text": "Acabo de descargar la App pero no me deja recuperar mi cuenta ni muchos menos ingresar otra",
+  "label": "neg"
+ },
+ {
+  "text": "No me deja actualizar?",
+  "label": "neg"
+ },
+ {
+  "text": "Excelente experiencia. Gracias",
+  "label": "pos"
+ },
+ {
+  "text": "Mala",
+  "label": "neg"
+ },
+ {
+  "text": "El servicio técnico de DON William quedo bien ,gracias",
+  "label": "pos"
+ },
+ {
+  "text": "Servicio muy malo.el internet hogar es pésimo, comucarse a la línea de atención es terrible, y ni las propias plataformas de ellos funcionan.",
+  "label": "neg"
+ },
+ {
+  "text": "Se demora pará abrir",
+  "label": "neg"
+ },
+ {
+  "text": "Buena",
+  "label": "pos"
+ },
+ {
+  "text": "Excelente servicio. Ágil para todo¡¡¡",
+  "label": "pos"
+ },
+ {
+  "text": "Ya se esta volviendo un dolor de cabeza eso se las actualizaciones para ingresar le pide una actualizacion Pesima pésima la app",
+  "label": "neg"
+ },
+ {
+  "text": "Excelente",
+  "label": "pos"
+ },
+ {
+  "text": "Está aplicaciones es solo para capturar tus datos, luego dice que no registra ningún teléfono",
+  "label": "neg"
+ },
+ {
+  "text": "Lo que claro hace con su clientela es muy bueno porque da oportunidad de garantía en las compras de pa que tes y mucho más",
+  "label": "pos"
+ },
+ {
+  "text": "No carga rápido y no hace la actualización",
+  "label": "neg"
+ },
+ {
+  "text": "Malísima",
+  "label": "neg"
+ },
+ {
+  "text": "Uv87 imly",
+  "label": "neg"
+ },
+ {
+  "text": "Por alguna razón cuando instalo está app el celular me da bugs, deberían investigar ese problema, no soy el único al que le pasa",
+  "label": "pos"
+ },
+ {
+  "text": "No se puede comprar ningún paquetey el*611# esta fallando no deja ver apaquete tienes comprado en picas palabras esto se esta volviendo basura.",
+  "label": "neg"
+ },
+ {
+  "text": "Excelente",
+  "label": "pos"
+ },
+ {
+  "text": "Buenas tarde",
+  "label": "pos"
+ },
+ {
+  "text": "Muy buen servicio",
+  "label": "pos"
+ },
+ {
+  "text": "con tal de no ver la cara desaciada del tipo de la foto la actualize a ver que trae mejor pongan fotos de paisajes",
+  "label": "neg"
+ },
+ {
+  "text": "Mala",
+  "label": "neg"
+ },
+ {
+  "text": "Si muy eficiente",
+  "label": "pos"
+ },
+ {
+  "text": "La app bien pero la señal y los datos se están viendo muy interrumpido",
+  "label": "pos"
+ },
+ {
+  "text": "Muy poco útil la app, presenta muchas fallas, se cierra sola, super difil iniciar sesión, dice que tengo abierta otra sesión y se cierra, cuando no es verdad, debe ser óptima para lo que supuestamente esta programada",
+  "label": "neg"
+ },
+ {
+  "text": "Buena",
+  "label": "pos"
+ },
+ {
+  "text": "dejen de ser tan cansones conlas actualizaciones cada que habro la aplicacion me: pide actualizar que mamera",
+  "label": "neg"
+ },
+ {
+  "text": "Super hasta que cambie de telefono, ahora no me deja usar la app pprque me dice que ya la abri en otro lado mo se como solucionar el tema",
+  "label": "neg"
+ },
+ {
+  "text": "El servicio de claro es pésimo en la aplicación ya que ni siquiera deja entrar al usuario y por teléfono la atención es peor ya que son asesores impacientes y groseros. Le doy UNA estrella sólo porque no le puedo dar CERO ESTRELLAS. Desinstalo ésta porquería de aplicación y en cuanto la cláusula termine también solicitaré la desinstalación del servicio. Ah, y ahorrense lo de que debí buscar asesoría primero, porque lo intenté y no funcionó. DESINSTALADA",
+  "label": "neg"
+ },
+ {
+  "text": "Bien gracias",
+  "label": "pos"
+ },
+ {
+  "text": "Intento hacer una recarga en freefire y no puedo ayúdenme o si no me cambio de esta monda",
+  "label": "neg"
+ },
+ {
+  "text": "Muy buena",
+  "label": "pos"
+ },
+ {
+  "text": "Muy buena",
+  "label": "pos"
+ },
+ {
+  "text": "Exelente. Mi claro",
+  "label": "pos"
+ },
+ {
+  "text": "Tanta cambiadera jarto",
+  "label": "neg"
+ },
+ {
+  "text": "No dan ninguna solución...en realidad, es muy malo el servicio al cliente de Claro ( de alguna manera se burlan del cliente)...y bueno, que decir del internet, es malísimo.",
+  "label": "neg"
+ },
+ {
+  "text": "Malisimo pésimo tengo 8 días actualizando y no se puede",
+  "label": "neg"
+ },
+ {
+  "text": "Muy buena",
+  "label": "neg"
+ },
+ {
+  "text": "Buenas tardes llevo mas de un mes q la aplicación no me deja cambiar la clave wifi",
+  "label": "neg"
+ },
+ {
+  "text": "La estamos probando",
+  "label": "pos"
+ },
+ {
+  "text": "Hola como estas",
+  "label": "pos"
+ },
+ {
+  "text": "Es una porquería de aplicación cambie mi contraseña desde la computadora y cuando ingresé a la aplicación me pidió la contraseña, ingresé la nueva contraseña y me salió contraseña invalida",
+  "label": "neg"
+ },
+ {
+  "text": "Regular",
+  "label": "neg"
+ },
+ {
+  "text": "👍bueno",
+  "label": "pos"
+ },
+ {
+  "text": "Hola lo que pasa es que ya hace mucho me avia registrado en esta aplicacion pero hace como una semana conpre un plan pero me pidieron que les diera un correo yo se los di pero despues me digieron que instalara esta aplicación y me registrara con la cuenta del plan y pues cada vez que intento acceder se mete es a mi cuenta antigua porfa ayudenme",
+  "label": "neg"
+ },
+ {
+  "text": "No me deja cambiar la clave y el nombre de la red siempre sale q lo intente nuevamente",
+  "label": "neg"
+ },
+ {
+  "text": "Los planes están más económicos en WOM, Haré mi portabilidad, ya que Claro no sirve para juegos, mala transferencia de datos",
+  "label": "neg"
+ },
+ {
+  "text": "Es un pesimo servicio. Pide actualizacion cada semana, y entro a la app y no cambia nada. Son las mismas opciones solo que en diferente lugar. Que fastidio",
+  "label": "neg"
+ },
+ {
+  "text": "Esto lo que hace es llenar el celular mas de cosas.. Y así sea mas lento cada vez que se pide actualizar la aplicación.",
+  "label": "neg"
+ },
+ {
+  "text": "Buena",
+  "label": "pos"
+ },
+ {
+  "text": "No puedo actualizar la red WiFi me presenta el siguiente error \"Por favor asegúrate de seleccionar el módem correcto\" supuestamente el equipo es el que yo quiero actualizar.",
+  "label": "neg"
+ },
+ {
+  "text": "Exelente gracias",
+  "label": "pos"
+ },
+ {
+  "text": "Es muy buena porque fácil se puede manejar las opciones",
+  "label": "neg"
+ },
+ {
+  "text": "Ustedes frecuente piden ACTUALIZAR, pero las propagandas No las actulizan. Tienen una de hace 4 meses. Como uno les cre a la actualización",
+  "label": "neg"
+ },
+ {
+  "text": "Mucha vuelta para pagar, es más fácil desde las apps de pago",
+  "label": "neg"
+ },
+ {
+  "text": "Muy regular la aplicación...opciones en embudo..",
+  "label": "neg"
+ },
+ {
+  "text": "Hola buenas tardes por favor el otro televisor no tiene ningún ceñal la nota que escribí comenté que le corto las puntas del cable de ceñal fue que pase para la otra habitación y no tengo señal cambie el deco y lo mismo no hay señal por favor si me pueden hagendar otra cita con el técnico muchas gracias",
+  "label": "pos"
+ },
+ {
+  "text": "NO TENGO NIGUNA APENA VOY A INTALAR",
+  "label": "pos"
+ },
+ {
+  "text": "Pésima aplicación, pésimo servicio, tanto hogar como teléfonia postpago, todo muy malo , para cobrar están de una acosando , pero cuando el servicio está malo nadie responde , te dejan en línea o abandonan el chat , pésima compañia",
+  "label": "neg"
+ },
+ {
+  "text": "Saludos, en este momento no me encuentro en Colombia y quiero descargar la aplicación de claro Colombia para pagar mi saldo del celular y no puedo descargarla. Por FA or como hago? Me aparece error de protocolo de comunicación.",
+  "label": "neg"
+ },
+ {
+  "text": "Desde que actualise la app me manda a registrarme y me dice que sección iniciada en otro teléfono si en la única que lo eh abierto es en mi cell, me. Dice que tengo que cerrar la verdad ya no puedo ver cuantas gigas tengo ni nd claro es una basura Ombe esperare esta factura para cambiarme estoy muy avergonzada de Claro en vez de mejorar empeoro",
+  "label": "neg"
+ },
+ {
+  "text": "Muy bien 👍🆗",
+  "label": "pos"
+ },
+ {
+  "text": "Es muy engorrosa, que pelea para poder ingresar no deja, es pésima, solo sirve para dañar el genio",
+  "label": "neg"
+ },
+ {
+  "text": "Genial",
+  "label": "pos"
+ },
+ {
+  "text": "Good.",
+  "label": "pos"
+ },
+ {
+  "text": "Claro no tiene muy buena señal, a veces no tengo ni recepción de datos moviles.",
+  "label": "neg"
+ },
+ {
+  "text": "Bien 👍",
+  "label": "pos"
+ },
+ {
+  "text": "Cada rato la modifican. Mi contraseña no la he cambiado, y a veces no la acepta.😠",
+  "label": "neg"
+ },
+ {
+  "text": "Buena",
+  "label": "pos"
+ },
+ {
+  "text": "Pesima la app, muchas veces no deja entrar. Estoy en USA y no me deja hacer los pagos y para cambiar el nombre del titular es un problema.",
+  "label": "neg"
+ },
+ {
+  "text": "No me deja registrarme, pongo los datos de mi cédula y es como si no tuviera. ¿Que pasa?",
+  "label": "neg"
+ },
+ {
+  "text": "Lo Mejor De Lo Mejor",
+  "label": "pos"
+ },
+ {
+  "text": "Esxelentee",
+  "label": "pos"
+ },
+ {
+  "text": "Bn",
+  "label": "pos"
+ },
+ {
+  "text": "No sirve para nada esta app ,lo peor de usted con la señal ,que mal servicio definitivamente me cambiaré de operador",
+  "label": "neg"
+ },
+ {
+  "text": "Estuve esperando como 8 días que me solucionaran el problema porque es mi medio más utilizado gracias por venir",
+  "label": "pos"
+ },
+ {
+  "text": "Para mi esta aplicación me ha facilitado el pago de mi factura y la de mi familia. Desde que la descargué Siempre pago por aquí. Nunca me falla. Creo que claro es la mejor señal.",
+  "label": "pos"
+ },
+ {
+  "text": "Bueno pues la app no me deja cambiar la clave del wifi Y mucho menos el Usuario Que hago ???",
+  "label": "neg"
+ },
+ {
+  "text": "Pésima no me deja entrar",
+  "label": "neg"
+ },
+ {
+  "text": "Muy mala aplicación siempre da error así lo borré y lo instale mil veces",
+  "label": "neg"
+ },
+ {
+  "text": "Bn",
+  "label": "pos"
+ },
+ {
+  "text": "Super",
+  "label": "pos"
+ },
+ {
+  "text": "No he podido entrar nunca y no se como comunicarme con Claro",
+  "label": "neg"
+ },
+ {
+  "text": "A cada rato hay que actualizar y no sirve de nada siempre esta lento no carga hay error pésima aplicación",
+  "label": "neg"
+ },
+ {
+  "text": "No es tan buena cuando recarga no te deja entrar mas espera que se acabe la recarga bueno",
+  "label": "neg"
+ },
+ {
+  "text": "Buena app",
+  "label": "pos"
+ },
+ {
+  "text": "Muy lento y finalmente no pude actualizar y como consecuencia no pude pagar. MALO",
+  "label": "neg"
+ },
+ {
+  "text": "Excelente",
+  "label": "pos"
+ },
+ {
+  "text": "Cada rato pide actualizar",
+  "label": "neg"
+ },
+ {
+  "text": "Ultimante esta pesimo servicio, mi señal wife esta muy mala espero que mejoren el servivio.",
+  "label": "neg"
+ },
+ {
+  "text": "Exelente",
+  "label": "pos"
+ },
+ {
+  "text": "Buenos días acabo de instalar plan hogar y plan de mi celular espero q los malos comentarios q hacen por este medio de la mala experiencia sea solo por difamar mal de claro. Espero no equivocarme señores de claro, porque yo sí voy cancelando todo el plan. Gracias",
+  "label": "pos"
+ },
+ {
+  "text": "Excelente",
+  "label": "pos"
+ },
+ {
+  "text": "Todo lo de Claro es patético, desleal fatal.",
+  "label": "neg"
+ },
+ {
+  "text": "La app no me deja seguir del logo de inicio, desde hace más de un mes está así.",
+  "label": "neg"
+ },
+ {
+  "text": "Claro y su pésimo servicio, no sirve internet, no sirve telefonía, ni solucionan mediante esta app ni por llamada ni nada. Pero cuando llega la fecha de pago ahí si llaman y le llenan el buzón de mensajes cobrando. Solicito terminación de contrato",
+  "label": "neg"
+ },
+ {
+  "text": "NO MUESTRA EL CONSUMO DE LOS DATOS",
+  "label": "pos"
+ },
+ {
+  "text": "La app mantiene en constante actualización y cuando se actualiza no deja ingresar o aparece que el usuario no está registrado cuando tengo el servicio hace tiempo",
+  "label": "neg"
+ },
+ {
+  "text": "Muy mala..lenta muy lenta",
+  "label": "neg"
+ },
+ {
+  "text": "👍",
+  "label": "pos"
+ },
+ {
+  "text": "Muy regular, el supuesto soporte tecnico no funciona o al menos las 12 veces q lo he necesitado no resolvio.",
+  "label": "neg"
+ },
+ {
+  "text": "Ok",
+  "label": "pos"
+ },
+ {
+  "text": "Muy buena",
+  "label": "pos"
+ },
+ {
+  "text": "Me fue muy bien con el técnico exelente,solo q los módem salieron malos y se demoró mucho por tener que ir a buscar otros,gracias por el cervicio",
+  "label": "pos"
+ },
+ {
+  "text": "Pesimo servicio",
+  "label": "neg"
+ },
+ {
+  "text": "Muy lenta para hacer cualquier cosnsulta, casi siempre aparece se ha producido un error",
+  "label": "neg"
+ },
+ {
+  "text": "Exelente línea es muy rápida y con bnos beneficios para todos",
+  "label": "pos"
+ },
+ {
+  "text": "Buenas tardes señores de Claro. Desde la ultima actualización no esta funcionando la app mi claro...",
+  "label": "neg"
+ },
+ {
+  "text": "Anteriormente se podía modificar la clave del WiFi,pero actualmente ya no es posible ,eso si esta muy mal",
+  "label": "neg"
+ },
+ {
+  "text": "Satisfactoria",
+  "label": "pos"
+ },
+ {
+  "text": "Pereza de actualizadera a cada rato. chévere que sea por seguridad y servicios pero no es una app de uso diario.",
+  "label": "neg"
+ },
+ {
+  "text": "La app me había servido muy bien en mi dispositivo Huawei P40, pero hace unos meses dejó de ser compatible, me resultaba muy útil porque así podía mirar el estado de mi plan así como los pagos, pero ya no se nada, y me resulta inútil porque ya no la puedo usar, una lastima. no se si se pueda arreglar eso",
+  "label": "neg"
+ },
+ {
+  "text": "Esta app es muy buena",
+  "label": "pos"
+ },
+ {
+  "text": "La señal en las ciudades o en carretera ha sido muy mala demasiado hace bastante tiempo una falta de respeto que esten cobrando por un servicio tan malo",
+  "label": "neg"
+ },
+ {
+  "text": "Mala toca actualizar a cada rato",
+  "label": "neg"
+ },
+ {
+  "text": "Excelente.",
+  "label": "pos"
+ },
+ {
+  "text": "Es muy lento",
+  "label": "pos"
+ },
+ {
+  "text": "Mas practico",
+  "label": "pos"
+ },
+ {
+  "text": "Muy bueno",
+  "label": "pos"
+ },
+ {
+  "text": "Me parece una excelente aplicación muy buena gracias",
+  "label": "pos"
+ },
+ {
+  "text": "Antes podía ver cosas útiles aquí, pero la app molesta mucho y ahora no ingresa a nada, se queda estático en una publicidad sin opciones de absolutamente nada. Por eso la desinstalé.",
+  "label": "neg"
+ },
+ {
+  "text": "No se puede descargar y la versión nterior ya tampoco se puede utilizar",
+  "label": "neg"
+ },
+ {
+  "text": "Very good",
+  "label": "pos"
+ },
+ {
+  "text": "Frecuentemente no pasa de la publicidad inicial y si hay actualizaciones pendientes uno no logra usarla. El proceso de actualización es largo.",
+  "label": "pos"
+ },
+ {
+  "text": "Todo bien, gracias",
+  "label": "pos"
+ },
+ {
+  "text": "Me conecte por facebook y no dieron solucion",
+  "label": "neg"
+ },
+ {
+  "text": "Buen servicio.. Gracias",
+  "label": "pos"
+ },
+ {
+  "text": "Desde que me subieron la cantidad de datos estos se tornan lentos como si no tuviera y muchas veces el equipo se muestra sin señal estando completa la barra.",
+  "label": "neg"
+ },
+ {
+  "text": "Muy buena appp",
+  "label": "pos"
+ },
+ {
+  "text": "Bien",
+  "label": "pos"
+ },
+ {
+  "text": "No funcionan los datos cada rato sin internet",
+  "label": "neg"
+ },
+ {
+  "text": "Excelente",
+  "label": "pos"
+ },
+ {
+  "text": "Pésima no carga al abrir la app solo se queda ahí ahora mismo la desinstalo pero que se puede esperar de claro que siempre a sido un pésimo servicio",
+  "label": "neg"
+ },
+ {
+  "text": "Lenta",
+  "label": "neg"
+ },
+ {
+  "text": "Terrible poderla abrir; por eso la desinstalé",
+  "label": "neg"
+ },
+ {
+  "text": "Mal servicio al cliente, no sirve, tampoco sirve Claro video",
+  "label": "neg"
+ },
+ {
+  "text": "Puntual con la información",
+  "label": "pos"
+ },
+ {
+  "text": "mejor idea del hp mundo ❤️❤️",
+  "label": "pos"
+ },
+ {
+  "text": "No e tenido ninguna esperiencia todavia nó se mucho manejar esto",
+  "label": "pos"
+ },
+ {
+  "text": "Muy buena",
+  "label": "pos"
+ },
+ {
+  "text": "A cada raro pide actualización de lo contrario no deja ingresa a la app",
+  "label": "neg"
+ },
+ {
+  "text": "La calidad del servicio de internet cada dia desmejora mas y mas",
+  "label": "neg"
+ },
+ {
+  "text": "Normal solo que deverias tenner su propia propago A",
+  "label": "neg"
+ },
+ {
+  "text": "Muy buena",
+  "label": "pos"
+ },
+ {
+  "text": "Nosotros hemos llevado más de 10 años de experiencia con claro y la verdad nos ha parecido muy mala en todos los sentidos empezando porque nos están cobrando $110000 que no sabemos de dónde es y nos acaban de cortar el la red acabando de pagar $40000 qué es lo que vale el consumo esto es un robo señores claro",
+  "label": "neg"
+ },
+ {
+  "text": "Desde hace un mes no me deja ingresar que no puedo validar ni usuario ni contraseña. A pesar de buscar recuperación del usuario o contraseña no me deja.",
+  "label": "neg"
+ },
+ {
+  "text": "Está muy mala desde hace unos meses no abre la aplicación y se traba, no reconoce mis productos. Pésimo",
+  "label": "neg"
+ },
+ {
+  "text": "Me gusta su servicio",
+  "label": "pos"
+ },
+ {
+  "text": "Muy biena",
+  "label": "pos"
+ },
+ {
+  "text": "Se queda en la pantalla de inicio, muy malo toca esperar un buen tiempo, sigo sin poder ingresar me envían un código y dice error en protocolo de comunicación, una porquería de aplicación, perdón la expresión pero se van a actualizar que sea para mejorar Lastima decirlo pero el servicio postventa de Claro deja mucho que desear",
+  "label": "neg"
+ },
+ {
+  "text": "Siempre que entro para intentar mejorar la conección a internet, me dice que lo siente que no puede atender mi solicitud. Entro a Claro Bot y un robot me dice que desconecte y vuelva a conectar y todo sigue igual por horas. Resultado, horas en línea en atención al cliente. Entonces para qué esta aplicación? Solo para pagar? Bueno, cuando por fin haya conección.",
+  "label": "neg"
+ },
+ {
+  "text": "Desde la nueva actualización, ya no puedo ver fácilmente el valor a pagar de mis facturas, se bloquea todo el tiempo y no me deja realizar los pagos",
+  "label": "neg"
+ },
+ {
+  "text": "En realidad no estoy muy satisfecha con el servicio por qué el internet últimamente no me funciona he llamado y me han hecho como dos actualización en la configuración y siempre queda igual se supone que tengo 30 GB y no me carga ni el facebook ni Google y en las clases virtuales menos carga.",
+  "label": "neg"
+ },
+ {
+  "text": "Nadie me responde por la compra de un celular hice ayer. Me enviaron el pin y ahora nadie da respuesta del proceso de compra. Necesito respuesta",
+  "label": "neg"
+ },
+ {
+  "text": "Excelente",
+  "label": "pos"
+ },
+ {
+  "text": "Buen servicio",
+  "label": "pos"
+ },
+ {
+  "text": "La puede descargar pero primero me dice que conecte los datos y despues que tengo una sesión abierta en otro dispositivo y es la primera vez que la descarga....malisima porqué no me ninguna opcion",
+  "label": "neg"
+ },
+ {
+  "text": "Ññ",
+  "label": "pos"
+ },
+ {
+  "text": "Muy bien gracias",
+  "label": "neg"
+ },
+ {
+  "text": "MALO TODO MALO VENDEN UNA COSA Y COBRAN OTRA COMO ES POSIBLE QUE ADQUIERO UN SERVICIO Y TENGO QUE PAGAR PARA QUE ME LO INSTALEN APARTE Y LOS ASESORES NO ESPECIFICAN. Y POR QUE TENGO QUE PAGAR EL COSTO DE LA CONEXIÓN DE EL SERVICIO COMO USUARIO NUEVO APARTE ME COBRAN SERVICIO DE TELEFONIA FIJA WIE NO TENGO Y LOS CONTRATISTAS NISIQUIERA HICIERON LA CONEXION PARA EL TELÉFONO FIJO ME PARECE UN TIMO Y NO VEO POR QUE SI YO ADQUIERO LOS SERVICIOS DE UDS TENGA QUE PAGAR LA INSTALACIÓN DE EL SERVICIO.",
+  "label": "neg"
+ },
+ {
+  "text": "Buen cervicio",
+  "label": "pos"
+ },
+ {
+  "text": "Logré solucionar mi problema",
+  "label": "pos"
+ },
+ {
+  "text": "Me cobran mas de lo pactado...",
+  "label": "neg"
+ },
+ {
+  "text": "Excelente",
+  "label": "pos"
+ },
+ {
+  "text": "Una de las peores reds de colombia",
+  "label": "neg"
+ },
+ {
+  "text": "Muy mala aplicación. No me deja entrar con la contraseña y me pide una verificación al correo electrónico que no llega, aunque puedo acceder a la página oficial. Busco una visita técnica y es un calvario tratar de contactarlos. Pésimo servicios al cliente.",
+  "label": "neg"
+ },
+ {
+  "text": "Ya no dejan revisar cuantas megas he consumido del plan, siempre sale que le de a actualizar, le doy y sigue mal, lo más seguro es que la próxima factura llegue por más.",
+  "label": "neg"
+ },
+ {
+  "text": "Han mejorado, con ek cliente",
+  "label": "pos"
+ },
+ {
+  "text": "LOS PAQUETES SON MUY CAROS",
+  "label": "pos"
+ },
+ {
+  "text": "Muy útil",
+  "label": "pos"
+ },
+ {
+  "text": "No se porque me estan cobrando 142 mil yo No tengo dino dos codificadores",
+  "label": "neg"
+ },
+ {
+  "text": "Mi experiencia con claro ha sido excelente. Gracias. Bendiciones.",
+  "label": "pos"
+ },
+ {
+  "text": "Súper",
+  "label": "pos"
+ },
+ {
+  "text": "Ponen publicidad ajena. A veces con notificaciones molestas. Obligan a actualizar app para pagar un recibo....",
+  "label": "neg"
+ },
+ {
+  "text": "Ya cansa tanta actualizadera",
+  "label": "neg"
+ },
+ {
+  "text": "Deben brindar más información y opciones de configuración para los servicios contratados más que todo para el servicio de Internet y router",
+  "label": "pos"
+ },
+ {
+  "text": "Pesimo",
+  "label": "neg"
+ },
+ {
+  "text": "😄😄😄😄😄😄😄",
+  "label": "pos"
+ },
+ {
+  "text": "Todo lo de claro es una miér*\":\"+*# Hice la portabilidad y me tocó esperar más de 2 horas para recibir una simple SIM, ahora tengo \"todo claro no me aplicaron los beneficios en la velocidad del internet fijo, llevo 3 horas tratando de comunicarme y no me handado respuesta. La atención de claro es horrible!! Ahhh pero marqué la opción de adquirir un servicio y no pasaron 2 segundosy ahí contestaron. Para amarralo a uno eso es como un tiro, pero para anteder las necesidades de los clientes activos, son excusas y excusas y pin -pon, pin -pon.",
+  "label": "neg"
+ },
+ {
+  "text": "No me permite hacer la actualización",
+  "label": "neg"
+ },
+ {
+  "text": "Muy atento el técnico gracias",
+  "label": "pos"
+ },
+ {
+  "text": "¡Terrible! Llevo más de un mes tratando de ingresar y no ha sido posible. Era una App óptima, sin embargo, ha perdido credibilidad su sistema operativo.",
+  "label": "neg"
+ },
+ {
+  "text": "Mí esperiencia con claro fue muy buena porque ahora no sirve la señal muy mala ya está peor que Tigo. Estoy queme cambio de operador",
+  "label": "neg"
+ },
+ {
+  "text": "Fatal!!! No funciona la app y lo peor sale un anuncio que no permite el registro de usuario que llame al *611 y al contactarme me dicen que lo solucionaran en 24 horas y sigue igual",
+  "label": "neg"
+ },
+ {
+  "text": "El trabajo estuvo bien Se cumplieron los objetivos Muchas gracias",
+  "label": "pos"
+ },
+ {
+  "text": "Excelente servicio",
+  "label": "pos"
+ },
+ {
+  "text": "Llevo 4 días tratando de actualizarla, no me permite ingresar a la cuenta, alguna solución???",
+  "label": "neg"
+ },
+ {
+  "text": "Eso no sirve para nada se queda en la imagen y no funciona",
+  "label": "neg"
+ },
+ {
+  "text": "Excelente aplicacion bien servicio gracias 😊🤗",
+  "label": "pos"
+ },
+ {
+  "text": "En esta pandemia ha sido claro mi aliado, excelente servicio pocas veces se cae, siempre han sido muy educados sus trabajadores cuando solicito cualquier inquietud. Ya llevo 2 años y me hicieron el traslado muy rápido... Para seguir trabajando como docente.",
+  "label": "pos"
+ },
+ {
+  "text": "Estoy desepcionada del servicio, me cambié del otro operador por lo mismo y era hasta mejor si no mejora voy a cambiarme, así paso con el otro y cuando tome la determinación hay llamándome para que no me fuera, la factura se cumple hasta hoy y desde hace tres días me están ostigando y me quitan servicios siempre dan 5 días entonces",
+  "label": "neg"
+ },
+ {
+  "text": "Lo mejor claro",
+  "label": "pos"
+ },
+ {
+  "text": "Regular ..no le solucionan los problemas cuando unos los llaman lo dejan esperando con contestador es la peor empresas que ay de comunicaciónes",
+  "label": "neg"
+ },
+ {
+  "text": "No me explico que pasa ya que estuve en las oficinas de la vía puerto lord hacer un reclamo ,por que pago las facturas y otro es el que se beneficia con el crédito y me doy cuenta que me tienen bloqueada la cédula y me dejaron sorprendido entonces para evitar problemas pago la factura del mes de mayo y me retiro del plan asignado pronto iré a las oficinas hacer dicha diligencia",
+  "label": "neg"
+ },
+ {
+  "text": "Està malísima",
+  "label": "neg"
+ },
+ {
+  "text": "Información esencial a la mano y con buena interfaz.",
+  "label": "pos"
+ },
+ {
+  "text": "Muy mal servicio",
+  "label": "neg"
+ },
+ {
+  "text": "Excelente",
+  "label": "pos"
+ },
+ {
+  "text": "Mejor",
+  "label": "pos"
+ },
+ {
+  "text": "El servicio fue oportuno y mostró gran interés para solucionar el daño. Eficiente y profesional.",
+  "label": "pos"
+ },
+ {
+  "text": "Es muy buena",
+  "label": "pos"
+ },
+ {
+  "text": "No genera claro hogar, tengo un Motorola G7 power y me cierra la app cuando seleccionó la opción de pagar la factura en mi recibo de claro hogar, espero encuentren solución... Ya descargué dos veces el app... La última actualización no funciona...",
+  "label": "neg"
+ },
+ {
+  "text": "No los recomiendo. Me tocó contratarlos por obligación",
+  "label": "neg"
+ },
+ {
+  "text": "Buena",
+  "label": "pos"
+ },
+ {
+  "text": "Ok",
+  "label": "neg"
+ },
+ {
+  "text": "Después de dos horas , NO pude ingresar .... siempre protocolos y contraseña NO corresponden.....",
+  "label": "neg"
+ },
+ {
+  "text": "Se desactualiza muy rápido. Es una aplicación que uso cada mes para pagar mi factura y cada me pide ser actualizada para poder usarla, lo veo completamente innecesario porque además no hay tan siquiera funcionalidades nuevas, solo mayor peso para la app.",
+  "label": "neg"
+ },
+ {
+  "text": "Pésimo muy lento y pesado casi me ocupa toda la memoria",
+  "label": "neg"
+ },
+ {
+  "text": "Necesito saber el valo de mi factura de pago del mes en curso",
+  "label": "neg"
+ },
+ {
+  "text": "Buena bacanicima chebedre",
+  "label": "pos"
+ },
+ {
+  "text": "Si la app es pésima, como será el servicio. Asqueroso 🤮",
+  "label": "neg"
+ },
+ {
+  "text": "Es un asco,te pide actualizar y luego no sirve para mie#$@dice que la actualización te brindará mejoras para el desempeño de la app,mas cada vez que sale el pendejo anuncio y actualizo...no vuelve a abrir ni rezando unos buenos padre nuestros,que vergüenza,será que la programan en una carnicería ó que se yo!!",
+  "label": "neg"
+ },
+ {
+  "text": "Muy lenta la señal",
+  "label": "neg"
+ },
+ {
+  "text": "No me desbloquearon en ningún momento la clave ...muy mal servicio",
+  "label": "neg"
+ },
+ {
+  "text": "Excelente el servicio del técnico que vino a realizar la visita, puntual, muy gentil, muy servicial y realizo una buena labor. Ojalá todos trabajen igual",
+  "label": "pos"
+ },
+ {
+  "text": "Buena",
+  "label": "neg"
+ },
+ {
+  "text": "Buena",
+  "label": "pos"
+ },
+ {
+  "text": "Kki 7 7 7 te R reeru88",
+  "label": "pos"
+ },
+ {
+  "text": "Pésima",
+  "label": "neg"
+ },
+ {
+  "text": "No me muestra el saldo q tengo ni las megas ni con wifi ni la señal del operador q llega a 4.5 G y me dice q no estoy conectado a internet jeje",
+  "label": "neg"
+ },
+ {
+  "text": "No sirve para modificar la contraseña de mi wifi",
+  "label": "neg"
+ },
+ {
+  "text": "Urgente!!! Requiero ayuda de claro Colombia para acceder a mi dirección IP DE MI ROUTER MOTOROLA SVG1202 EL CUAL ES 192.168.0.1 ME TIENEN BLOQUEADO DE MI USUARIO Y CONTRASEÑA Y NO PUEDO ACCEDER, ES MI DERECHO ACCEDER A ESTE APARTADO, ESPERO UNA PRONTA RESPUESTA",
+  "label": "neg"
+ },
+ {
+  "text": "Buena aplicación",
+  "label": "pos"
+ },
+ {
+  "text": "La app el día de ayer 26/05/2021 el la opción servicios a consultar, boy a consultar la opción de hogar y al ir a paga tu factura se cierra... en la opción de pagar factura móvil funciona bien gracias..",
+  "label": "neg"
+ },
+ {
+  "text": "POR QUE ME PIDE QUE LA ACTULIZE SI LA ACABO DE DESCARGAR",
+  "label": "neg"
+ },
+ {
+  "text": "👌💯",
+  "label": "pos"
+ },
+ {
+  "text": "Hola no deberia necesitar de internet como se puede mejorar?",
+  "label": "pos"
+ },
+ {
+  "text": "Es buena",
+  "label": "pos"
+ },
+ {
+  "text": "Exelente",
+  "label": "pos"
+ },
+ {
+  "text": "Excelente servicio",
+  "label": "pos"
+ },
+ {
+  "text": "😤😤😤",
+  "label": "neg"
+ },
+ {
+  "text": "Buena",
+  "label": "pos"
+ },
+ {
+  "text": "Muy mala la entrada para mí claro",
+  "label": "neg"
+ },
+ {
+  "text": "Lo peor de lo peorsito. No les doy estrella es un fiasco total...",
+  "label": "neg"
+ },
+ {
+  "text": "Lo mejor delo mejor, no los miento al decirles que a mis amigos y también a mis menos amigos siempre les sugiero cambiarse aclaro cuando los oigo quejarse de sus comunicaciones eso lo hago gratis sin esperar ninguna compensación económica solo por el bien de ellos y para no tener que oírlos, quejarse a cada rato😁",
+  "label": "pos"
+ },
+ {
+  "text": "Buena",
+  "label": "pos"
+ },
+ {
+  "text": "Pésima la aplicación la actualizaron pero no deja ingresar no entiendo por qué 😤😒",
+  "label": "neg"
+ },
+ {
+  "text": "Suben las gigas pero el servicio es pésimo, así que de que valen si no las puedes utilizar como quisieras.",
+  "label": "neg"
+ },
+ {
+  "text": "Olaaa😃",
+  "label": "pos"
+ },
+ {
+  "text": "exelente",
+  "label": "pos"
+ },
+ {
+  "text": "La atención buena",
+  "label": "pos"
+ },
+ {
+  "text": "Muy buena laapp",
+  "label": "pos"
+ },
+ {
+  "text": "Pésima, mantiene pidiendo actualización y se demora mucho para hacerla, es muy lenta esta aplicación",
+  "label": "neg"
+ },
+ {
+  "text": "Bueno",
+  "label": "pos"
+ },
+ {
+  "text": "Han mejorado!🙂",
+  "label": "pos"
+ },
+ {
+  "text": "Uno pagando para tener un servicio tan malo, !!",
+  "label": "neg"
+ },
+ {
+  "text": "Debo rezar para lograr pagar.! Programadores sonsos...",
+  "label": "neg"
+ },
+ {
+  "text": "Excelente",
+  "label": "pos"
+ },
+ {
+  "text": "Muy buena la atención",
+  "label": "pos"
+ },
+ {
+  "text": "El servicio es super",
+  "label": "pos"
+ },
+ {
+  "text": "El peor servicio de la vida, mala señal y tras del echo una va a cancelar y lo ignoran y cuelgan la llamada",
+  "label": "neg"
+ },
+ {
+  "text": "Sigo pensando que es lo peor no dan soluciones que de verdad ayuden a los clientes.",
+  "label": "neg"
+ },
+ {
+  "text": "Bien super",
+  "label": "pos"
+ },
+ {
+  "text": "Es bueno la aplicación muy recomendable",
+  "label": "neg"
+ },
+ {
+  "text": "no había podido ingresar a la aplicación, no Reconocía la clave ,la des instale y volví a Instalar y funciona bien",
+  "label": "pos"
+ },
+ {
+  "text": "Es muy buena me encanto",
+  "label": "pos"
+ },
+ {
+  "text": "Tengo la aplicación hace tiempo, h me había funcionado perfectamente, pero de dos meses para acá, ha molestado, la abro y no pasa del logo promocional, después de una semana más o menos funcionó otra vez, pero este fin de semana la misma historia...no me funcionó",
+  "label": "pos"
+ },
+ {
+  "text": "Mi insatisfacción radica en el bloqueo permanente a mis comunicaciones y ya no sé qué hacer,estoy optando por un cambio de operador",
+  "label": "neg"
+ },
+ {
+  "text": "La app, es regular, un poco lenta, aparte de eso aveces es un poco complicado entrar a unos iconos para saber información, y poder pagar. no es tan rápida, ni clara como la hacen ver",
+  "label": "neg"
+ },
+ {
+  "text": "Pésima, como todos los servicios de este operador.",
+  "label": "neg"
+ },
+ {
+  "text": "Muy completa",
+  "label": "pos"
+ },
+ {
+  "text": "Muy completa pero desde la última actualización cuando voy a pagar, hay que cambiar de app para claves dinámicas y en ese momento miclaro se devuelve al principio y que abierta la sesión de pago son poder verla.",
+  "label": "neg"
+ },
+ {
+  "text": "No me deja ingresar",
+  "label": "neg"
+ },
+ {
+  "text": "Hola , desde el 5 de mayo solicité la instalación de Internet claro, y no han venido a hacer los trabajos, que pasa?porque tanta demora?,la atención vietual al usuario es pésima y en la tienda principal de Acacias me programaron visita para hoy viernes y no han llegado, si no vienen hoy tendré qué cambiar de operador.",
+  "label": "pos"
+ },
+ {
+  "text": "Bn",
+  "label": "pos"
+ },
+ {
+  "text": "Excelente actitud y disposición de los dos técnicos que vinieron, pero pésima organización y planeacion de la empresa claro y eso afecta el trabajo de sus empleados.",
+  "label": "pos"
+ },
+ {
+  "text": "Necesito reclamar y nadie responde la factura anterior subio 18000 y nadie da una respuesta como cancelo para cambiar de operador",
+  "label": "neg"
+ },
+ {
+  "text": "Se actualiza a cada rato, eso quita tiempo y memoria al celu, restandole eficacia a la APP...se hace complicado pagar",
+  "label": "neg"
+ },
+ {
+  "text": "Porq esta tan mala la señal de claro en nariño siempre se va la señal en tumaco",
+  "label": "pos"
+ },
+ {
+  "text": "Exelente",
+  "label": "pos"
+ },
+ {
+  "text": "La app no permite hacer pagos, llame y q intentará en media hora pero sigue igual. Solo puedo hacer el pago por este medio.",
+  "label": "neg"
+ },
+ {
+  "text": "Mas o menos A vecs funciona",
+  "label": "neg"
+ },
+ {
+  "text": "La consulto para ver consumos y hago el pago de mi factura pos. Me funciona bien....",
+  "label": "pos"
+ },
+ {
+  "text": "Se cierra, en ocasiones dice no estar habilitado y me parece el colmo porque es como una Plataforma de atención.",
+  "label": "neg"
+ },
+ {
+  "text": "Esta buena",
+  "label": "pos"
+ },
+ {
+  "text": "Bien",
+  "label": "pos"
+ },
+ {
+  "text": "Aceptable",
+  "label": "pos"
+ },
+ {
+  "text": "Este servicio es muy malo supuestamente tenemos 20 megas de wifi pero eso pareciera que no tuvieras ni media mega arreglen eso muy mala atención malisima",
+  "label": "neg"
+ },
+ {
+  "text": "Que servicio tan pésimo 🤮🤮🤮🤮🤮",
+  "label": "neg"
+ },
+ {
+  "text": "Sencillo su uso",
+  "label": "pos"
+ },
+ {
+  "text": "Aún les falta mejor conexión en lugares rurales del país",
+  "label": "neg"
+ },
+ {
+  "text": "Muy regular se cae mucho la señal y es muy lenta las respuesta",
+  "label": "pos"
+ },
+ {
+  "text": "Nunca me deja entrar",
+  "label": "neg"
+ },
+ {
+  "text": "Me gusta por eso",
+  "label": "pos"
+ },
+ {
+  "text": "La verdad me ha funcionado siempre así q no me puedo quejar",
+  "label": "pos"
+ },
+ {
+  "text": "Siempre eh tenido la sim de claro pero ya ni siquiera me coge la señal esta pésimo",
+  "label": "neg"
+ },
+ {
+  "text": "Bueno",
+  "label": "pos"
+ },
+ {
+  "text": "Le doy una estrella porque no se le puede poner menos , nisiquiera deja agregar o eliminar números de familia y amigos dice (valida tu conexión ) para lo único que no les falla la conexión es para cobrar porque nisiquiera es fecha de corte y ya están cobrando, espero con ansias la llegada de otro operador porque nisiquiera cobertura de otro operador en el sector.",
+  "label": "neg"
+ },
+ {
+  "text": "Excelente App",
+  "label": "pos"
+ },
+ {
+  "text": "N/A",
+  "label": "neg"
+ },
+ {
+  "text": "Cada vez que uno va a entrar a la aplicación sale que debe actualizarla, que pereza.",
+  "label": "neg"
+ },
+ {
+  "text": "La verdad nunca la uso",
+  "label": "pos"
+ },
+ {
+  "text": "Hace ya varios días que no me sale mi cuenta de Claro hogar, solo la del móvil y no he podido pagar mi cuenta de hogar desde el celular a causa de eso. En la plataforma web tampoco sale mi cuenta hogar.",
+  "label": "neg"
+ },
+ {
+  "text": "Pesima nisiquiera ingresa dice que hay otra version que hay que actualizarla y nunca actualiza",
+  "label": "neg"
+ },
+ {
+  "text": "Excelente",
+  "label": "pos"
+ },
+ {
+  "text": "No funcióna no permite que uno se registre",
+  "label": "neg"
+ },
+ {
+  "text": "Mz quezzzzzzzzya de la empresa ya está listo e impreso a qué los niños se les cayó en la tarde yo estoy de viaje y no sé ytty de la espera de sus conocimientos en las fotos",
+  "label": "neg"
+ },
+ {
+  "text": "Pues hasta el momento estoy satisfecha con el servicio",
+  "label": "pos"
+ },
+ {
+  "text": "Me parece súper excelente",
+  "label": "pos"
+ },
+ {
+  "text": "Bueno los felicito",
+  "label": "pos"
+ },
+ {
+  "text": "Anteriormente se podía tener información sobre el cupo que se tenía para poder financiar un equipo. Hoy en día desapareció esa opción, solo deja ver los equipos financiados y cuánto se está debiendo.",
+  "label": "pos"
+ },
+ {
+  "text": "Claro es súper malo",
+  "label": "neg"
+ },
+ {
+  "text": "Excelente",
+  "label": "pos"
+ },
+ {
+  "text": "Que servicio pésimo",
+  "label": "neg"
+ },
+ {
+  "text": "Sres. Arreglen el bug que tiene la app al momento de ingresar a pagar tu factura la app al ingresar te saca automáticamente y nececito pagar mi factura claro hogar..",
+  "label": "neg"
+ },
+ {
+  "text": "Buena",
+  "label": "pos"
+ },
+ {
+  "text": "Ok",
+  "label": "pos"
+ },
+ {
+  "text": "Acabo de instalar la última actualización y aun persiste el problema de no abril la app si uno esta conectado a wiffi, solo abre cuando los haces por los datos de tu móvil.",
+  "label": "neg"
+ },
+ {
+  "text": "Gracias, fue un excelente servicio",
+  "label": "pos"
+ },
+ {
+  "text": "Nunca se puede hacer una compra desde la app,.",
+  "label": "neg"
+ },
+ {
+  "text": "Falla bastante, cero recomendada.",
+  "label": "neg"
+ },
+ {
+  "text": "Excelente para gestionar cualquier serbicio",
+  "label": "pos"
+ },
+ {
+  "text": "Buen servicio",
+  "label": "pos"
+ },
+ {
+  "text": "Desde hace mucho tiempo no funciona la opción de cambiar aspectos del módem y no dan solución",
+  "label": "neg"
+ },
+ {
+  "text": "Extremadamente, lenta",
+  "label": "neg"
+ },
+ {
+  "text": "Muy bueno el servicio",
+  "label": "neg"
+ },
+ {
+  "text": "Está regular la señal se caen las llamadas gracias",
+  "label": "neg"
+ },
+ {
+  "text": "Tengo percamse de instalar mi claro como puedo hacer la actualización",
+  "label": "pos"
+ },
+ {
+  "text": "Acabo de darle actualizar y ya no me deja entrar para nada, ni para hacer pagos. No. Muy mala aplicación .. me sale que tengo que iniciar sesión y no hay por donde iniciarla. Que horror de aplicación y servicio.",
+  "label": "neg"
+ },
+ {
+  "text": "La señal es regular sobre todo en datos",
+  "label": "neg"
+ },
+ {
+  "text": "Me gusta claro x q la señal no me falla pero me esta fallando el interned aver si . me colaboran para q ko me falle graciad",
+  "label": "pos"
+ },
+ {
+  "text": "Buenas noches señores de claro tengo una pregunta por qué la señal últimamente está fallando tanto igual que los datos soy cliente hace 6 años y últimamente claro ya me tiene aburrida con la señal principalmente los datos gracias si el problema sigue me va tocar cambiarme a otro operador más eficiente gracias espero su colaboración no me avia pasado hasta hace mas de 5 meses estoy con ese problema a ratos están bien los datos pero hay días q no gracias por la colaboración prestada gracias",
+  "label": "neg"
+ },
+ {
+  "text": "No me acepta la contraseña y además me bloquearon",
+  "label": "neg"
+ },
+ {
+  "text": "Mi experiencia en claro es muy malo me dejaron sin servicios en mi hogar y para que un técnico venga a mirar la falla ha sido un problema , no los recomiendo.",
+  "label": "neg"
+ },
+ {
+  "text": "Mala, pues tiene muchas cosas, pero la aplicación en este preciso momento no me permite manejar lo referente a mi celular y los servicios que se me ofrecieron, pues no he podido que la aplicación me permita hacer uso de ellos, por eso la calificación y eso que di mucho",
+  "label": "neg"
+ },
+ {
+  "text": "Muy buen app",
+  "label": "pos"
+ },
+ {
+  "text": "Buena app lo malo es que le quitaron ver el consumo del los datos",
+  "label": "pos"
+ },
+ {
+  "text": "No puedo entrar a mi aplicación necesito entrar me pide actualizar y mi celular no tiene más capacidad para aplicaciones. Necesito cancelar el servicio que hago para entrar?",
+  "label": "neg"
+ },
+ {
+  "text": "En general muy bueno todo",
+  "label": "pos"
+ },
+ {
+  "text": "Se cae cada momento la señal no hay buena ni clara información con el colcenter.",
+  "label": "neg"
+ },
+ {
+  "text": "Excelente servicio, puntual y eficiente, muchas gracias Claro",
+  "label": "pos"
+ },
+ {
+  "text": "Buena app para manejar los servicios",
+  "label": "pos"
+ },
+ {
+  "text": "Exelente aplicacion",
+  "label": "pos"
+ },
+ {
+  "text": "Malo esta aplicación",
+  "label": "neg"
+ },
+ {
+  "text": "Muy bien",
+  "label": "pos"
+ },
+ {
+  "text": "Tanto la app cómo la compañía son una basura..., si hay una manera de comunicación que no sea el bot patético de la App, por favor háganlo saber",
+  "label": "neg"
+ },
+ {
+  "text": "Excelente",
+  "label": "pos"
+ },
+ {
+  "text": "Excelente aplicación",
+  "label": "pos"
+ },
+ {
+  "text": "La APP no sirve para nada, en todo instante aparece en este momento no se puede ingresar, intente más tarde.",
+  "label": "neg"
+ },
+ {
+  "text": "Me estaba funcionando bien, y de un momento a otro me dice que mi usuario no está registrado, reconociendo mi correo para enviarme el código de acceso, y haciendo uso de la aplicación días antes... Cómo no va a estar registrado el usuario si ya he usado la app antes? Luego me pide una actualización que ya se realizó... Pésimo software...",
+  "label": "neg"
+ },
+ {
+  "text": "Excelente",
+  "label": "pos"
+ },
+ {
+  "text": "No me deja actualizar contraseña y cuando intento entrar me dice error de comunicación",
+  "label": "pos"
+ },
+ {
+  "text": "A la hora de modificar la clave wifi no sé cuál es la q deja cambiar si la de 2.4hz o 5hz???... Y solo me deja una red conectarme a una red después de modificar con la app. Dejándome los celulares q no manejan wifi dual banda sin internet, pues la reconoce pero nunca conecta!!!!",
+  "label": "neg"
+ },
+ {
+  "text": "Casi nilo utilizaba",
+  "label": "pos"
+ },
+ {
+  "text": "Es buena.",
+  "label": "pos"
+ },
+ {
+  "text": "Muy buena e importante",
+  "label": "pos"
+ },
+ {
+  "text": "Acabo de recargar a mi celular y no me ha llegado la recarga que esperan para mandarla acaso se piensan coger esa vrg o que",
+  "label": "neg"
+ },
+ {
+  "text": "Mi claro me mantiene informado sobre mi cuenta.",
+  "label": "pos"
+ },
+ {
+  "text": "No me deja actualizar se queda pensando y no actualiza deberían verificar eso",
+  "label": "neg"
+ },
+ {
+  "text": "Es muy buena y importante para nuestro beneficio gracia",
+  "label": "pos"
+ },
+ {
+  "text": "Muy útil para uno.",
+  "label": "pos"
+ },
+ {
+  "text": "Muy mala, muy lenta.",
+  "label": "neg"
+ },
+ {
+  "text": "Muy bien el técnico muy amable muy oportuno y muy eficiente. Le doy 10",
+  "label": "pos"
+ },
+ {
+  "text": "Muy mala la red , se cae todo el dia..publicidad engañosa..99% de robo no de cobertura nal.",
+  "label": "pos"
+ },
+ {
+  "text": "Es una porquería de servicio ,,desde o appp hasta la instalación Les mienten ,no compren este servicio es súper malo y son super irresponsables con los usuarios ,,servicio técnico no contesta y si llaman les cuelgan ,,no compren claro",
+  "label": "neg"
+ },
+ {
+  "text": "Mala .!",
+  "label": "neg"
+ },
+ {
+  "text": "Manejaba mejor el anterior sistema para consultar la factura ahora no aparece. Voy a tener dificultades para poderles pagar.",
+  "label": "pos"
+ },
+ {
+  "text": "Bueno juera que desde la app se pudiera cancelar o cortar el plan para ahorrarce la rogadera de los operadores",
+  "label": "neg"
+ },
+ {
+  "text": "Excelente herramienta",
+  "label": "pos"
+ },
+ {
+  "text": "Es una buena App pero pide mucha actualizacion y se vive quedando y tras de eso hace que mi celular se ponga lento",
+  "label": "neg"
+ },
+ {
+  "text": "Hace varios meses q ha desmejorado la señal por falta de una torre q desmontaron en el sector de minas amaga. Los datos no sirven las llamadas se caen y entrecortadas. gracias",
+  "label": "neg"
+ },
+ {
+  "text": "No me deja registrarme?",
+  "label": "pos"
+ },
+ {
+  "text": "Es un pésimo servicio entre más megas pido peor la red no Cogen para nada me toca estarlo reiniciando...y llama uno y nadie le soluciona nada prácticamente uno pierde a final de mes las megas y el dinero pero para cobrar si manda cada rato mensajes que pague uno",
+  "label": "neg"
+ },
+ {
+  "text": "Mala señal",
+  "label": "neg"
+ },
+ {
+  "text": "Buena",
+  "label": "pos"
+ },
+ {
+  "text": "Excelente",
+  "label": "pos"
+ },
+ {
+  "text": "Pésima. 1.Cada vez que entro me dice que solo se puede en 3 dispositivos, cambie la contraseña de la app y volví a entrar y me dice lo mismo. 2. Fui a cambiar el nombre de wifi y no me deja que lo debo seleccionar módem, es el único módem y no me deja seleccionar. 3. Se demora en cargar y en ocasiones me aparece no disponible, inclusive después de que entra. Sino mejoran la app tocará cambiar de proveedor de servicio",
+  "label": "neg"
+ },
+ {
+  "text": "Excelente se espera sigan generando nuevas novedades 👍y actualizaciones",
+  "label": "pos"
+ },
+ {
+  "text": "Buena",
+  "label": "pos"
+ },
+ {
+  "text": "La aplicación es solo para asolarnos con propaganda. Tengo 30GB y no se ve un vídeo de Youtube de forma fluida. Los cupos están sobrevendidos por eso no recibimos lo que pagamos. Claro te veo mal!!!!",
+  "label": "neg"
+ },
+ {
+  "text": "Gracias mi claro",
+  "label": "pos"
+ },
+ {
+  "text": "Por favor verificar su app, si ustedes solicitan actualizarla, debe ser para optimizar su servicio, después de 20 minutos no se ha descargado y no puedo realizar ningún proceso. De que sirve tener todo lo que ofrecen, si por más de un mes no tengo servicio de televisión en plan hogar y ni siquiera se interesan en lo que uno reporta. Continuaré esperando para quitar paquete y que no cobren lo que no se consume.",
+  "label": "neg"
+ },
+ {
+  "text": "quedé satisfecho con el servicio un servicio rápido muchas gracias",
+  "label": "pos"
+ },
+ {
+  "text": "Hola le coloque dos estrellas por motivo que la señal en piamonte cauca es muy mala. Nos podrían ayudar en ese problema ya que somos muchos piamonte que ocupamos el servicio de claro Muchas gracias",
+  "label": "neg"
+ },
+ {
+  "text": "Me robaron los datos de mi tarjeta de crédito inscrita en la app y realizaron pagos de facturas Claro que no son mías... Un asco de aplicación, unas completas ratas! No les recomiendo guardar los datos de tarjetas al realizar pagos, tarde o temprano las mismas ratas de Claro se las robaran como a mi",
+  "label": "neg"
+ },
+ {
+  "text": "Vamos a probar!!",
+  "label": "pos"
+ },
+ {
+  "text": "Si no actualizo no deja entrar a la aplicación, es obligatorio actualizar, muy mal",
+  "label": "neg"
+ },
+ {
+  "text": "Porque no me deja ingresar a la aplicacion, me dice error de capa de red y me saca de la aplicacion",
+  "label": "neg"
+ },
+ {
+  "text": "Buena",
+  "label": "pos"
+ },
+ {
+  "text": "Muy bien",
+  "label": "pos"
+ },
+ {
+  "text": "Cada vez que intento abrir \"Pagos\" la app se cierra y no me deja ver la factura ni hacer ningún pago",
+  "label": "neg"
+ },
+ {
+  "text": "Excelente .muy contenta con Claro Gracias",
+  "label": "pos"
+ },
+ {
+  "text": "Imposible registrarse",
+  "label": "neg"
+ },
+ {
+  "text": "Pésimo todo los datos son muy lentos el servicio malo. Muy malo todo",
+  "label": "neg"
+ },
+ {
+  "text": "Chévere",
+  "label": "pos"
+ },
+ {
+  "text": "De que sirve tener una app si no la puedes usar, de que sirve que le aumenten las gigas a los usuarios si no las podemos utilizar, dicen tener la mejor red 4g y ni aún la 3g funciona bn, si llamas de 4g se baja a 3 o 2g quedas sin datos y si quieres navegar le toca a uno estar caminando la casa para que tome señal y eso que ya hice todo el protocolo de configuración cambio de SIM card, reporte al área de soporte de cobertura,generando un aviso con 10 líneas con el mismo fallo y ni aún así sirve",
+  "label": "neg"
+ },
+ {
+  "text": "Con cada ectualizacion se pone mas lenta muy regular",
+  "label": "neg"
+ },
+ {
+  "text": "Buena",
+  "label": "pos"
+ },
+ {
+  "text": "Regular",
+  "label": "neg"
+ },
+ {
+  "text": "buena.",
+  "label": "pos"
+ },
+ {
+  "text": "Últimamente se va la señal y ahora siempre es lo mismo con la app mi claro no está disponible",
+  "label": "neg"
+ },
+ {
+  "text": "La app muy buena de calidad y todo pero la actualizan mucho",
+  "label": "neg"
+ },
+ {
+  "text": "Buenas tardes solicito me colaboren",
+  "label": "pos"
+ },
+ {
+  "text": "Ok",
+  "label": "pos"
+ },
+ {
+  "text": "No sé que pasa pero los datos son muy pésimos. Antes era mejor el servicio que ahora. En lugar de mejorar a desmejorado.",
+  "label": "neg"
+ },
+ {
+  "text": "Hola buenas tardes La app no está en funcionamiento hace tiempo",
+  "label": "neg"
+ },
+ {
+  "text": "Mala señal",
+  "label": "neg"
+ },
+ {
+  "text": "Pésimo servicio , la señal casi siempre está molestando , no entiendo entonces para que uno coloca servicio de WiFi si nunca puede disfrutar de él sin ningún problema. Pero para cobrar la factura si muy temprano andan llamando",
+  "label": "neg"
+ },
+ {
+  "text": "Llevo con el servicio fijo aproximadamente 1 año y me ha sido imposible cambiar un numero elegido, ni por la app ni por el 611 ni por PQR",
+  "label": "neg"
+ },
+ {
+  "text": "Me están sensurando porque protestamos por tener un buen servicio de salud, tener oportunidades de trabajo? Es el colmo que Slim se preste para slcuaguetiarcal Gobierno Dictatorial.",
+  "label": "neg"
+ },
+ {
+  "text": "Ya conocía el técnico y todo salio bien y sigamos los protocolos de bioseguridad",
+  "label": "pos"
+ },
+ {
+  "text": "Pésima",
+  "label": "neg"
+ },
+ {
+  "text": "La experiencia con la red 4g es mala casi siempre está en ese modo y las descargas son de 0,2M en bajada y 2M en subida. El video se pausa a toda hora, siempre me toca pasar a modo avión y después normalizar para tener 4.5g. Apesar de eso hay momentos donde también es lento, se pasa de nuevo a 4g para ponerse re lento de nuevo. Presume de la mejor cobertura pero en velocidad esta muy quedado.",
+  "label": "neg"
+ },
+ {
+  "text": "Regular.",
+  "label": "neg"
+ },
+ {
+  "text": "Pésimo contrato 40 megas y solo tengo 20 de internet ladrones nadie responde Contrato win+ y me ofrecieron en el teléfono también y nunca lo tengo Pago cumplido y me ROBAN HAMPONES",
+  "label": "neg"
+ },
+ {
+  "text": "Son ustedes los mas malos de colombia pensamis cambiar es mejor nada que claro pero si hay que pagar un mal servicio",
+  "label": "neg"
+ },
+ {
+  "text": "Pide muchas actualizaciónes no asen 15 días que me pidió actualización y ya otra vez",
+  "label": "neg"
+ },
+ {
+  "text": "No sé puede abrir desde el extranjero. Para poder pagar las facturas.",
+  "label": "neg"
+ },
+ {
+  "text": "En cuanto a megas si me funcionan no tan bien como espero pero si me responden, lo que no me gusta es porque las llamadas llegan a 1 hora y se cuelgan? Tengo contacto con otras personas que me llaman y las llamadas sobrepasan la hora y no se cuelgan, espero me ayuden gracias.",
+  "label": "neg"
+ },
+ {
+  "text": "Quisiera saber porque no puedo entrar a la aplicacion",
+  "label": "neg"
+ },
+ {
+  "text": "Realmente no he podido cancelar una factura que por error de ustedes llego por menor valor, luego simplemente lo mandan a uno a pagar de forma presencial el excedente. Además el servicio de internet es pesimo, me han visitado 3 veces y nada que arreglan la falla.",
+  "label": "neg"
+ },
+ {
+  "text": "esperemos que mejore pregunta aún se puede cuanto cupo se tiene para obtener equipos financiados",
+  "label": "pos"
+ },
+ {
+  "text": "No funciona",
+  "label": "neg"
+ },
+ {
+  "text": "Instale wuin+ y no he pedido ver un partidos de fútbol",
+  "label": "pos"
+ },
+ {
+  "text": "Soy usuario de esto y no lo recomiendo es muy lenta y hace q tu móvil se recaliente",
+  "label": "neg"
+ },
+ {
+  "text": "Era muy buena por que podía consultar mis consumos ahora no tiene la opción de consulta de consumo.",
+  "label": "neg"
+ },
+ {
+  "text": "Ecxelente",
+  "label": "pos"
+ },
+ {
+  "text": "Mala re mala",
+  "label": "neg"
+ },
+ {
+  "text": "No puedo entrar a la aplicación , y consultar lo que necesito ,, además quiero comprar un celular ,a través de mi plan",
+  "label": "neg"
+ },
+ {
+  "text": "Buenísima",
+  "label": "pos"
+ },
+ {
+  "text": "No deja crear la clave de acceso arroja muchos errores...",
+  "label": "neg"
+ },
+ {
+  "text": "Exelente",
+  "label": "pos"
+ },
+ {
+  "text": "SEÑORES CLARO. EL INTERNET NO ME SIRVE PARA ACTUALIZAR MIS APP Y ES MUY LENTO Y EL SERVICIO AL CLIENTE YA NO ESTA EN USO O COMO...NUNCA CONECTA LA LLAMADA Y LA APP TAMPOCO RESPONDE NADIE... GRACIAS.",
+  "label": "neg"
+ },
+ {
+  "text": "Es buena 👍",
+  "label": "pos"
+ },
+ {
+  "text": "K app más malísima nunk deja hacer nada todo el tiempo sale error,y no deja ni guardar los números amigos",
+  "label": "neg"
+ },
+ {
+  "text": "Es pésima no me deja instalarla no validan el correo electrónico y estoy cansada de llamar al *611 y no da ninguna solución",
+  "label": "neg"
+ },
+ {
+  "text": "Buena",
+  "label": "pos"
+ },
+ {
+  "text": "Necesito retirarme del plan que tengo el internet no sirve para nada..estoy pendiente para el retiro... el",
+  "label": "neg"
+ },
+ {
+  "text": "Asido buena",
+  "label": "pos"
+ },
+ {
+  "text": "Mala señal no actualiza",
+  "label": "neg"
+ },
+ {
+  "text": "No contestan humanos.",
+  "label": "neg"
+ },
+ {
+  "text": "Exelente...",
+  "label": "pos"
+ },
+ {
+  "text": "Agil",
+  "label": "pos"
+ },
+ {
+  "text": "Exelente",
+  "label": "pos"
+ },
+ {
+  "text": "La señal es muy pésima",
+  "label": "pos"
+ },
+ {
+  "text": "No deja actualizar, a pesar de haber luberado espacio.",
+  "label": "neg"
+ },
+ {
+  "text": "Es muy lento",
+  "label": "pos"
+ },
+ {
+  "text": "Muyyy bueno",
+  "label": "pos"
+ },
+ {
+  "text": "Excelente. El técnico dejó todo en orden Mil gracias",
+  "label": "pos"
+ },
+ {
+  "text": "Cada mes actualizan esta app o que? Y el cambio es mas estético que operativo",
+  "label": "neg"
+ },
+ {
+  "text": "Es el mejor servicio , pero no entiendo porque a veces se CAE DEMASIADO LA SEÑAL",
+  "label": "pos"
+ },
+ {
+  "text": "Buen servicio",
+  "label": "pos"
+ },
+ {
+  "text": "Buena",
+  "label": "pos"
+ },
+ {
+  "text": "Toda vía no tengo la experiencia luego les escribo, para comentarles gracias.",
+  "label": "pos"
+ },
+ {
+  "text": "Llevo una hora tratando de hacer un trámite y no tengo una atención adecuada aún ni comunicándose por el chat. O sea esta App solo sirve para conocer algunos datos y ofertas no tiene tiempo para la atención aún usuario. Llevo 17 años como todo claro y las Apps solo me sirven para recibir publicidad y ofertas. LUIS HERNÁN DUQUE SALAZAR CC. 70055079",
+  "label": "neg"
+ },
+ {
+  "text": "Pésimo servicio, pésima atención y la app no sirve para nada, tiene dos lugares para hacer solicitud de traslado y ninguna para solicitud de mantenimiento, una porquería solo les gusta robar. Donde está soporte técnico deberían tener solicitud de mantenimiento y no solicitud de traslado para eso tienen una ventana de solicitud de traslado, excelente forma de robo.",
+  "label": "neg"
+ },
+ {
+  "text": "Todos los meses es un peo para hacer los pagos",
+  "label": "neg"
+ },
+ {
+  "text": "A comparación de otras aplicaciones we puede consultar el registro de llamadas diario y esta no lo permite",
+  "label": "neg"
+ },
+ {
+  "text": "La aplicación me parece muy buena.",
+  "label": "pos"
+ },
+ {
+  "text": "Excelente...",
+  "label": "pos"
+ },
+ {
+  "text": "He estado llamando durante una semana entera para una revisión técnica en mi apartamento pues no tengo Internet ni televisión ni teléfono me he visto perjudicado. NO HA SIDO POSIBLE COMUNICARME CON CLARO . NO CONTESTAN SOLO GRABACION Y LO MANDAN DE UN LADO S OTRO SIN OBTENER RESPUESTA ALGUNA",
+  "label": "pos"
+ },
+ {
+  "text": "Buenos días quiero saber porque cuando hay una actualización no la permite hacer ni tampoco me permite ingresar.",
+  "label": "pos"
+ },
+ {
+  "text": "Buena",
+  "label": "pos"
+ },
+ {
+  "text": "Señal pésima",
+  "label": "neg"
+ },
+ {
+  "text": "Retiran el servicio, estando a paz y salvo en pagos",
+  "label": "neg"
+ },
+ {
+  "text": "Ninguna contraseña acepta .la elimine no sirbe para nada",
+  "label": "neg"
+ },
+ {
+  "text": "No m recibe el correo",
+  "label": "neg"
+ },
+ {
+  "text": "Buena",
+  "label": "pos"
+ },
+ {
+  "text": "Gracias por su apoyo.",
+  "label": "pos"
+ },
+ {
+  "text": "Además de lenta, cada vez que uno quiere consultar toca ingresar todos los datos, sin importar si es en PC o en móvil, que molestia con este claro que nunca mejora",
+  "label": "neg"
+ },
+ {
+  "text": "Aceptable experiencia",
+  "label": "pos"
+ },
+ {
+  "text": "Una pregunta porfa que la respondan ( si uno hace una recarga le cobran a uno ?",
+  "label": "neg"
+ },
+ {
+  "text": "Ya no funciona 😞",
+  "label": "neg"
+ },
+ {
+  "text": "Ok",
+  "label": "pos"
+ },
+ {
+  "text": "Esta semana no me a funcionado intento usarla y me sale que no tengo internet que vuelva a intentarlo",
+  "label": "neg"
+ },
+ {
+  "text": "Seww& me 7 deq",
+  "label": "pos"
+ },
+ {
+  "text": "Buen servicio y atención del técnico Andrés",
+  "label": "pos"
+ },
+ {
+  "text": "Un poco lenta la app",
+  "label": "neg"
+ },
+ {
+  "text": "La valoración de esta vez es por el servicio de telefonía, no por la aplicación (que aveces tiene sus errores). La señal en Colombia es re malísima por no decir que la mayor parte del tiempo no hay servicio. Próximamente, cambio de operador.",
+  "label": "neg"
+ },
+ {
+  "text": "Espero obtener un excelente servicio y que me genere seguridad total para así poder hacer y tener mi datos personales y hacer transferencias de mayor valor y de una excelente seguridad tanto para mi como para mis contactos sugeridos en nuestro portal de servio como.sean ustedes los de claro espero ser atendida como una mejor o igualmente a las personas ya autor en este servicio como de telefonía totalmente asegurados espero pueda contar con toda la confianza así ustedes como administradores....",
+  "label": "pos"
+ },
+ {
+  "text": "Excelente tecnico nunca nos habían arreglado todo bien como ese tecnico amable respetuoso y buen trabajadoro",
+  "label": "pos"
+ },
+ {
+  "text": "La aplicación necesito ser actualizada, la actualicé y desde ese mismo momento no pude volver a tener acceso a la aplicación, me dice que no me acepta el nombre de usuario y cambie el password y me dice que hay un error de conexión...es el colmo que actualizar una aplicación en vez de mejorar sea peor.",
+  "label": "pos"
+ },
+ {
+  "text": "A decir verdad la aplicación es buena pero la atención al cliente de claro es malisima",
+  "label": "neg"
+ },
+ {
+  "text": "Buena",
+  "label": "pos"
+ },
+ {
+  "text": "Cada día se pone más lenta en abrir tiene opciones buenas pero se demora una eternidad",
+  "label": "neg"
+ },
+ {
+  "text": "Muy buena",
+  "label": "pos"
+ },
+ {
+  "text": "excelente",
+  "label": "pos"
+ },
+ {
+  "text": "No es muy amigable",
+  "label": "neg"
+ },
+ {
+  "text": "Llevo 20 años con claro",
+  "label": "neg"
+ },
+ {
+  "text": "La aplicación deja de funcionar, no abre con datos ni Wifi, lleva más de 15 presenta esta falla",
+  "label": "neg"
+ },
+ {
+  "text": "La app no me deja completar el registro porque aparece una línea claro asociada a mi nombre pero que ya está desactivada. Se queda en el registro.",
+  "label": "neg"
+ },
+ {
+  "text": "La aplicacion bien pero es muy pesada se demora para abrir y la señal de este operador es muy regular en cualquier parte del pais se caen hasta las llamadas darle dos estrellas es mucho",
+  "label": "neg"
+ },
+ {
+  "text": "Muy uena la atención recibida por por parte del técnico Cristian",
+  "label": "pos"
+ },
+ {
+  "text": "Muy Buena,",
+  "label": "pos"
+ },
+ {
+  "text": "Hola me colocaron 2codificador y uno no presenta nada y llamó y que no hay técnico y no an venido mientras tanto tengo que pagar los dos",
+  "label": "neg"
+ },
+ {
+  "text": "Muy buena, me gusta, hago mis pagos y me ofrece muchos beneficios",
+  "label": "pos"
+ },
+ {
+  "text": "No funciona la aplicación.",
+  "label": "neg"
+ },
+ {
+  "text": "Cada actualizacion va deteriorando la aplicacion, en este caso no deja hacer nada cada que voy a realizar pagos sale error o si no es que el usuario no existe y toca crearlo infinidad de veces por q definitivamente no reconoce los creados anteriormente",
+  "label": "neg"
+ },
+ {
+  "text": "Es muy lenta, además pide actualizaciones todo el tiempo.",
+  "label": "neg"
+ },
+ {
+  "text": "Excelente",
+  "label": "pos"
+ },
+ {
+  "text": "La señal de datos es muy mala, no he podido solucionar eso.",
+  "label": "neg"
+ },
+ {
+  "text": "Muy lenta, se demora demasiado en cargar, además cada que voy a ingresar pide actualización.",
+  "label": "neg"
+ },
+ {
+  "text": "Muy bueno",
+  "label": "pos"
+ },
+ {
+  "text": "Buena",
+  "label": "pos"
+ },
+ {
+  "text": "Buena",
+  "label": "pos"
+ },
+ {
+  "text": "Oportuna incluyente todo en uno",
+  "label": "pos"
+ },
+ {
+  "text": "Mala",
+  "label": "neg"
+ },
+ {
+  "text": "Muy buena",
+  "label": "pos"
+ },
+ {
+  "text": "Es el servicio mas paila que haya tenido, son una tortura los canales de comunicación, su app da asco.",
+  "label": "neg"
+ },
+ {
+  "text": "Bien pero le falta mas se que pueden mejorar",
+  "label": "pos"
+ },
+ {
+  "text": "Claro es una mi3rd4 en definitiva me retiro de este pésimo operador",
+  "label": "neg"
+ },
+ {
+  "text": "Intentó ingresar a la app y me dice que hay una sesión abierta y es la primera vez que descargo la app.",
+  "label": "neg"
+ },
+ {
+  "text": "241q gg",
+  "label": "pos"
+ },
+ {
+  "text": "Mal servicio de Claro no. Me gusta el Internet demasiado lento me toca utilizar el wifi de casa lo peor de lo peor",
+  "label": "neg"
+ },
+ {
+  "text": "Muy buena",
+  "label": "pos"
+ },
+ {
+  "text": "Diabólicamente lenta la aplicación. Además que mensualmente de este actualizando?",
+  "label": "neg"
+ },
+ {
+  "text": "Buena",
+  "label": "pos"
+ },
+ {
+  "text": "Exelente",
+  "label": "pos"
+ },
+ {
+  "text": "Buena",
+  "label": "pos"
+ },
+ {
+  "text": "Muy mala",
+  "label": "neg"
+ },
+ {
+  "text": "Excelente",
+  "label": "pos"
+ },
+ {
+  "text": "No se nota las mejorías",
+  "label": "neg"
+ },
+ {
+  "text": "No sirve para nada me pide actualización la app y no actualiza ingreso mi usuario y dice que no estoy registrado pesiiiiimo servicio......",
+  "label": "neg"
+ },
+ {
+  "text": "Buena",
+  "label": "pos"
+ },
+ {
+  "text": "excelente",
+  "label": "pos"
+ },
+ {
+  "text": "Excelente",
+  "label": "pos"
+ },
+ {
+  "text": "Super",
+  "label": "pos"
+ },
+ {
+  "text": "Claro tiene una cobertura de su señal de regular a buena, pero su cobertura de Internet 4g no es mala es realmente muy mala muy pésima, y su atención al cliente pésima como todos los operadores supongo.",
+  "label": "neg"
+ },
+ {
+  "text": "Muy lento",
+  "label": "neg"
+ },
+ {
+  "text": "Ok",
+  "label": "pos"
+ },
+ {
+  "text": "Aplicion pesima mala",
+  "label": "neg"
+ },
+ {
+  "text": "No soluciona nada",
+  "label": "neg"
+ },
+ {
+  "text": "Mal no se puede abrir",
+  "label": "neg"
+ },
+ {
+  "text": "Es muy buena",
+  "label": "pos"
+ },
+ {
+  "text": "Buena",
+  "label": "pos"
+ },
+ {
+  "text": "Le pongo 2 estrellas por qué no me deja ultilizar la facturación de pago para pagar en mis apps ayuda por favor",
+  "label": "neg"
+ },
+ {
+  "text": "Se volvio muy malo por que anteriormente eara algo bueno pero ahora es peor de malo a toda hora esta molestando la verraca señal. Difimitivamente yo me voy a pasar a tigo con las dos lineas que tengo ok",
+  "label": "neg"
+ },
+ {
+  "text": "Excelente",
+  "label": "pos"
+ },
+ {
+  "text": "Por queria de aplicación , no sirve para nada y se actualiza cada nada",
+  "label": "neg"
+ },
+ {
+  "text": "Me atendieron bien,aunque el servicio técnico no cumplió",
+  "label": "neg"
+ }
+]

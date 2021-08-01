@@ -15,7 +15,7 @@ Al entrar por primera vez es posible que la página tarde en cargar. Para accede
 
 Para ingresar un comentario y obtener la prediccion de su connotacion y calificaion, acceda al siguiente link: 
 [https://app-predictor-connotacion.herokuapp.com/connotacion-y-calificacion](http://app-predictor-connotacion.herokuapp.com/connotacion-y-calificacion "https://app-predictor-connotacion.herokuapp.com/connotacion-y-calificacion"), en el, posteriormente se cargaran los datos del comentario y las predicciones. 
-Además, ingrese a el link: 
+Además, ingrese al link: 
 [https://app-predictor-connotacion.herokuapp.com/docs](http://app-predictor-connotacion.herokuapp.com/docs "https://app-predictor-connotacion.herokuapp.com/docs"), allí cargara una interface donde podra ingresar el comentario a predecir. 
 Acceda a la sección post, luego "Try it out", y en la sección "post" ingrese el comentario. Finalmente oprima "Execute" y recargue el primer link para ver el resultado.
 
